@@ -1,4 +1,4 @@
-package org.haohuiguan.framework.haohuiguanparentapi;
+package org.haohuiguan.framework.parent.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.haohuiguan.framework.haohuiguanparentapi;
+package org.haohuiguan.framework.parent.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
