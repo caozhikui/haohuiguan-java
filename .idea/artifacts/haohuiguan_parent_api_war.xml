@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="haohuiguan-parent-api:war">
+    <output-path>$PROJECT_DIR$/haohuiguan-parent/haohuiguan-parent-api/target</output-path>
+    <root id="archive" name="haohuiguan-parent-api.war">
+      <element id="artifact" artifact-name="haohuiguan-parent-api:war exploded" />
+    </root>
+  </artifact>
+</component>
