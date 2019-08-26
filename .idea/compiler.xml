@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="haohuiguan-java" />
+        <module name="haohuiguanparentapi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="haohuiguan-java" target="1.5" />
+      <module name="haohuiguanparent" target="1.7" />
+      <module name="haohuiguanparentapi" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
