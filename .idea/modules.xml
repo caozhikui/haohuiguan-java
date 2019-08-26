@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/haohuiguan-java.iml" filepath="$PROJECT_DIR$/.idea/haohuiguan-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haohuiguan-parent/haohuiguanparent.iml" filepath="$PROJECT_DIR$/haohuiguan-parent/haohuiguanparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haohuiguan-parent/haohuiguan-parent-api/haohuiguanparentapi.iml" filepath="$PROJECT_DIR$/haohuiguan-parent/haohuiguan-parent-api/haohuiguanparentapi.iml" />
+    </modules>
+  </component>
+</project>
